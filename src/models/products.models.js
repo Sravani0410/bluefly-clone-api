@@ -14,7 +14,8 @@ const productsSchema=mongoose.Schema({
     color :{type:String,required:true},
     des :{type:String,required:true} ,
     code :{type:String,required:true} ,
-    size:{type:Array,required:false}
+    size:{type:Array,required:false},
+    qty:{type:Number,required:true}
   },{
     timestamps:true,
     versionKey:false,

@@ -15,7 +15,7 @@ const port=process.env.PORT || 5300
 app.use(cors());
 app.use(express.json());
 
-app.use("/users", userController);
+app.use("/user", userController);
 app.use("/register", register)
 app.use("/login", login)
 

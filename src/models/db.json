@@ -15,7 +15,8 @@
         "color" :"White",
         "des" : "This classic womens diamond ring features 15 round brilliant cut natural diamonds. All diamonds are set in solid white gold. .25ct total diamond weight. The band features an 8x2mm gap.",
         "code" : "BF-100821764-6QT6",
-        "size":[4,5,6,7]
+        "size":[4,5,6,7],
+        "qty":1
     },
     {   "id": 2, 
         "type" : "ring",
@@ -31,7 +32,8 @@
         "color" :"White",
         "des" : "This classic ladies diamond ring features seven round brilliant cut natural diamonds. All diamonds are prong set in 14k white gold. 1.00ct total diamond weight.",
         "code" : "BF-100796815-S42I",
-        "size":[4,5,6,7]
+        "size":[4,5,6,7],
+        "qty":1
     },
     { "id": 3, 
         "type" : "ring",
@@ -47,7 +49,8 @@
         "color" :"Gold",
         "des" : "Preowned - Fair Condition. A gold Cartier 18K Love Ring measuring *53* in A condition.",
         "code" : "BF-104034694-NVNY",
-        "size":[4,5,6,7]
+        "size":[4,5,6,7],
+        "qty":1
     },
     { "id": 4, 
         "type" : "ring",
@@ -63,7 +66,8 @@
         "color" :"White",
         "des" : "This stunning women's engagement ring features a large 5.05ct oval brilliant cut certified lab grown diamond. The diamond is four prong set in solid 14k white gold high polished mounting. Finger size 7 only.",
         "code" : "BF-103970852-C7CT",
-        "size":[4,5,6,7]
+        "size":[4,5,6,7],
+        "qty":1
     },
     { "id": 5, 
         "type" : "ring",
@@ -79,7 +83,8 @@
         "color" :"White",
         "des" : "Women's ring features round cut diamonds set in solid 14k rose gold. The diamonds are set in a petal leaf vine style band that encircles the entire ring. This ring is perfect for stacking with other bands or accenting an engagement ring. Make this the perfect ring to add to your collection.",
         "code" : "BF-100838763-ZCIN",
-        "size":[4,5,6,7]
+        "size":[4,5,6,7],
+        "qty":1
     }
     ],
     	
@@ -97,8 +102,8 @@
               "saveupto":40,
               "color" :"metallic | silver",
               "des" : "34mm Stainless Steel Case; Stainless Steel Bracelet; Guilloché; Blue Dial; Sapphire Crystal; 5 ATM Product Id: 46324 Original Price: EUR 974. Others",
-              "code" : "BF-104055834-MI6V"
-            
+              "code" : "BF-104055834-MI6V",
+              "qty":1
           },
           {   "id": 7, 
               "type" : "watch",
@@ -113,7 +118,8 @@
               "saveupto":60,
               "color" :"White",
               "des" : "Preowned - Fair Condition. This watch features an 18K pink gold case and strap, and manual winding movement.. Orchid Watch. . Brand: RolexCondition: Pre-loved. . Rating: B+. . Style: Others. Material: Metal. Category: Watch. Color: White. Length: 1.50 Width: 1.50. Diameter: 1.50. Comments: . [Supplier Rating] 6 [Supplier Condition Description] It is the appearance damage of the product to the end. Please check the operation status and bid. Case: Overall - Shallow wounds Many / dull slightly Windshield - A shallow wound large number / slightly Letterboard - Side Slightly with dirt Guidance - Deterioration slightly Belt: Buckle - A shallow wound number / dullness with dirt Squids of pieces - dirt slightly Surface - Shallow wounds Remarks: There is damage to the accessories with remainder stains Exterior back is scratched. Exterior front is scratched. Lock is scratched and tarnished.. . Metal.",
-              "code" : "BF-104163407-AMCB"
+              "code" : "BF-104163407-AMCB",
+              "qty":1
               
           },
           { "id": 8, 
@@ -129,8 +135,8 @@
               "saveupto":39,
               "color" :"metallic | gold",
               "des" : "38mm IP Yellow Gold Case; IP Yellow Gold Bracelet; Sunray; Gold Dial; Sapphire Crystal; 5 ATM Product Id: 47709 Original Price: EUR 973. Others",
-              "code" : "BF-103550030-SU9E"
-              
+              "code" : "BF-103550030-SU9E",
+              "qty":1
           },
           { "id": 9, 
               "type" : "watch",
@@ -145,8 +151,8 @@
               "saveupto":39,
               "color" :" metallic | gold",
               "des" : "34mm IP Yellow Gold Case; Two Tone Bracelet; Guilloché; Silver Dial; Sapphire Crystal; 5 ATM Product Id: 110735 Original Price: EUR 1070",
-              "code" : "BF-104055759-CUOS"
-              
+              "code" : "BF-104055759-CUOS",
+              "qty":1
           },
           { "id": 10, 
               "type" : "watch",
@@ -161,8 +167,8 @@
               "saveupto":43,
               "color" :"Gold",
               "des" : "Gender Women Main color Gold Clockwork Quartz: Battery Display format Analog Water resistance 0 ATM Closure Pressure closure Functions No Extra Function Case color Gold Case material Stainless Steel Case width 21mm Case length 26mm Facing Rhine Stone Wristband color Gold Wristband material Stainless Steel Strap connecting width 2mm Wrist circumference (max.) 215mm Shipment includes Watch Box Style Casual Color Gold Metal Stainless Steel Material Metal Gemstone & Pearls Rhinestone Style Bracelet Theme Beauty & Fashion Surface Polished Shipment includes Jewellery box Length 215mm Thickness 4mm Case height 7mm Glass Mineral Glass Display color Grey Power reserve No automatic bezel Fixed",
-              "code" : "BF-101971966-T8F7"
-              
+              "code" : "BF-101971966-T8F7",
+              "qty":1
           }
           ],
  "necklaces": [
@@ -179,8 +185,8 @@
               "saveupto":73,
               "color" :"Yellow",
               "des" : "Embellish your daily outfit with this 14 karat yellow gold-filled chain necklace. This classic and elegant jewelry has a warm golden-bronze finish that exudes warmth and robustness, and its Figaro link-chain design boasts fine craftsmanship that ensures longevity. A lobster claw clasp keeps this necklace in place for secure wearing. Features: High polish finish Chain links Long-lasting beauty Gold-filled interior metal Lobster-claw clasp 14 karat gold filled 3.3 mm wide",
-              "code" : "BF-103265459-DH7J"
-            
+              "code" : "BF-103265459-DH7J",
+              "qty":1
           },
           {   "id": 12, 
               "type" : "necklace",
@@ -195,8 +201,8 @@
               "saveupto":42,
               "color" :"Yellow",
               "des" : "This 14k yellow gold box chain offers luminously polished facets and a silky smooth look. At a 0.6 mm thickness this chain is available in an 16 18 20 and 24 length. Perfect for pendants and can also be worn alone. Includes a spring ring clasp to uphold strength and comfort.",
-              "code" : "BF-100865162-T717"
-              
+              "code" : "BF-100865162-T717",
+              "qty":1
           },
           { "id": 13, 
               "type" : "necklace",
@@ -211,8 +217,8 @@
               "saveupto":41,
               "color" :"Yellow",
               "des" : "Talk about glowing beauty! This stunning pendant necklace features a cushion-cut genuine yellow citrine in a pop of vibrant color against a white diamond accent pave-style halo. With 1.83 carats T.W., it's gorgeous glam for your neckline and a fashion must-have for your wardrobe. Crafted in 14k yellow gold over sterling silver. 18",
-              "code" : "BF-104005506-5GY7"
-              
+              "code" : "BF-104005506-5GY7",
+              "qty":1
           },
           { "id": 14, 
               "type" : "necklace",
@@ -227,8 +233,8 @@
               "saveupto":73,
               "color" :"White",
               "des" : "This classy traditional style pendant features a sparkly 3/4ct round brilliant cut genuine diamond prong set in solid 14k white gold high polished floating pendant. An 18 14k white gold chain is included.",
-              "code" : "BF-100837701-5CAF"
-              
+              "code" : "BF-100837701-5CAF",
+              "qty":1
           },
           { "id": 15, 
               "type" : "necklace",
@@ -243,8 +249,8 @@
               "saveupto":45,
               "color" :"Yellow",
               "des" : "This high quality women's necklace chain is made of 14k yellow gold and measures 18. The necklace is secured by a heavy duty lobster clasp.",
-              "code" : "BF-100834865-KGC1"
-              
+              "code" : "BF-100834865-KGC1",
+              "qty":1
           }
           ],
 "earrings": [
@@ -261,8 +267,8 @@
               "saveupto":55,
               "color" :"White",
               "des" : "This popular matching pair of hoops features 22 round brilliant cut natural diamonds. All diamonds are pave / prong set in 14k white gold. Each earring is secured by notched posts that clip into the other side of the hoop. .25ct total diamond weight.",
-              "code" : "BF-100827795-FUZJ"
-            
+              "code" : "BF-100827795-FUZJ",
+              "qty":1
           },
           {   "id": 17, 
               "type" : "earrings",
@@ -277,8 +283,8 @@
               "saveupto":54,
               "color" :"White",
               "des" : "This classic matching pair of studs features 2 round brilliant cut diamonds. Both diamonds are prong set in solid 14k white gold. 2ct total diamond weight.",
-              "code" : "BF-100829217-P1EG"
-              
+              "code" : "BF-100829217-P1EG",
+              "qty":1
           },
           { "id": 18, 
               "type" : "earrings",
@@ -293,8 +299,8 @@
               "saveupto":60,
               "color" :" Yellow | White",
               "des" : "This classic pair of matching earrings features 34 round brilliant cut natural diamonds. All diamonds are prong set in 10k gold. The earrings are secured by a notched post.",
-              "code" : "BF-103265573-2KFO"
-              
+              "code" : "BF-103265573-2KFO",
+              "qty":1
           },
           { "id": 19, 
               "type" : "earrings",
@@ -309,8 +315,8 @@
               "saveupto":26,
               "color" :"18k Gold-Plated Sterling Silver",
               "des" : "A must for everyone's wardrobe, these polished hoop earrings set the standard for fashion bugs of every age and taste. Crafted in 18k yellow gold over sterling silver, the puffed hoops are hollow for lightweight, comfortable wear. 1 7/8 diameter. 62116",
-              "code" : "BF-100686011-PPZM"
-              
+              "code" : "BF-100686011-PPZM",
+              "qty":1
           },
           { "id": 20, 
               "type" : "earrings",
@@ -325,8 +331,8 @@
               "saveupto":47,
               "color" :"Green",
               "des" : "Every girl needs a wardrobe of hoop earrings and these green jade beauties are just the look to add a punch of color to day and night outfits. 10k gold. As this item contains genuine jade, the actual stone colors may vary slightly. 45922",
-              "code" : " BF-100686154-OM26"
-              
+              "code" : " BF-100686154-OM26",
+              "qty":1
           }
           
           ]
