@@ -21,13 +21,14 @@ router.get("",async(req,res)=>{
     catch(err){
         return res.status(400).send({message:err.message})
     }
+    
 })
 router.get("/:id",async(req,res)=>{
     try{
         const user=await Users.findById(req.params.id).lean().exec()
         return res.status(200).send(user)
     }
-    
+
 
     catch(err){
         return res.status(400).send({message:err.message})
