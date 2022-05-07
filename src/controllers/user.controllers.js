@@ -22,5 +22,33 @@ router.get("",async(req,res)=>{
         return res.status(400).send({message:err.message})
     }
 })
+router.get("/:id",async(req,res)=>{
+    try{
+        const user=await Users.findById(req.params.id).lean().exec()
+        return res.status(200).send(user)
+    }
+    catch(err){
+        return res.status(400).send({message:err.message})
+    }
+})
+
+router.patch("/:id",async(req,res)=>{
+    try{
+        const user=await Users.findByIdAndUpdate(req.params.id,req.body,{new:true}).lean().exec()
+        return res.status(200).send(user)
+    }
+    catch(err){
+        return res.status(400).send({message:err.message})
+    }
+})
+router.delete("/:id",async(req,res)=>{
+    try{
+        const user=await Users.findByIdAndDelete(req.params.id).lean().exec()
+        return res.status(200).send(user)
+    }
+    catch(err){
+        return res.status(400).send({message:err.message})
+    }
+})
 
 module.exports = router;
