@@ -22,6 +22,15 @@ router.get("",async(req,res)=>{
         return res.status(400).send({message:err.message})
     }
 })
+router.get("product/:id",async(req,res)=>{
+    try{
+        const product=await Products.findById(req.params.id).lean().exec()
+        return res.status(200).send(product)
+    }
+    catch(err){
+        return res.status(400).send({message:err.message})
+    }
+})
 
 router.patch("/:id",async(req,res)=>{
     try{
